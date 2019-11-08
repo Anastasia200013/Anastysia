@@ -1,178 +1,178 @@
-<?xml version="1.0" encoding="windows-1251" standalone="no" ?>
+<?xml version="1.0" encoding="utf-8" standalone="no" ?>
 <Root>  
   <ExpenseItem>
-    <Name1>Код</Name1>
-    <Name2>Валюта</Name2>
-    <Name3>Курс</Name3>
+    <Name1>РљРѕРґ</Name1>
+    <Name2>Р’Р°Р»СЋС‚Р°</Name2>
+    <Name3>РљСѓСЂСЃ</Name3>
   </ExpenseItem>
   <ExpenseItem>
     <Name1>AUD</Name1>
-    <Name2>Австралийский доллар</Name2>
+    <Name2>РђРІСЃС‚СЂР°Р»РёР№СЃРєРёР№ РґРѕР»Р»Р°СЂ</Name2>
     <Name3>49,7383</Name3>
   </ExpenseItem>
   <ExpenseItem>
     <Name1>AZN</Name1>
-    <Name2>Азербайджанский манат</Name2>
+    <Name2>РђР·РµСЂР±Р°Р№РґР¶Р°РЅСЃРєРёР№ РјР°РЅР°С‚</Name2>
     <Name3>90,6977</Name3>
   </ExpenseItem>
 <ExpenseItem>
     <Name1>AMD</Name1>
-    <Name2>Армянских драмов</Name2>
+    <Name2>РђСЂРјСЏРЅСЃРєРёС… РґСЂР°РјРѕРІ</Name2>
     <Name3>67,4329</Name3>
   </ExpenseItem>
 <ExpenseItem>
     <Name1>BYN</Name1>
-    <Name2>Белорусский рубль</Name2>
+    <Name2>Р‘РµР»РѕСЂСѓСЃСЃРєРёР№ СЂСѓР±Р»СЊ</Name2>
     <Name3>78,3778</Name3>
   </ExpenseItem>
 <ExpenseItem>
     <Name1>BGN</Name1>
-    <Name2>Болгарский лев</Name2>
+    <Name2>Р‘РѕР»РіР°СЂСЃРєРёР№ Р»РµРІ</Name2>
     <Name3>36,3914</Name3>
   </ExpenseItem>
 <ExpenseItem>
     <Name1>BRL</Name1>
-    <Name2>Бразильский реал</Name2>
+    <Name2>Р‘СЂР°Р·РёР»СЊСЃРєРёР№ СЂРµР°Р»</Name2>
     <Name3>15,3640</Name3>
   </ExpenseItem>
 <ExpenseItem>
     <Name1>HUF</Name1>
-    <Name2>Венгерских форинтов</Name2>
+    <Name2>Р’РµРЅРіРµСЂСЃРєРёС… С„РѕСЂРёРЅС‚РѕРІ</Name2>
     <Name3>21,5026</Name3>
   </ExpenseItem>
 <ExpenseItem>
     <Name1>KRW</Name1>
-    <Name2>Вон Республики Корея</Name2>
+    <Name2>Р’РѕРЅ Р РµСЃРїСѓР±Р»РёРєРё РљРѕСЂРµСЏ</Name2>
     <Name3>54,1471</Name3>
   </ExpenseItem>
 <ExpenseItem>
     <Name1>HKD</Name1>
-    <Name2>Гонконгских долларов</Name2>
+    <Name2>Р“РѕРЅРєРѕРЅРіСЃРєРёС… РґРѕР»Р»Р°СЂРѕРІ</Name2>
     <Name3>81,5430</Name3>
   </ExpenseItem>
 <ExpenseItem>
     <Name1>DKK</Name1>
-    <Name2>Датских крон</Name2>
+    <Name2>Р”Р°С‚СЃРєРёС… РєСЂРѕРЅ</Name2>
     <Name3>95,2791</Name3>
   </ExpenseItem>
 <ExpenseItem>
     <Name1>USD</Name1>
-    <Name2>Доллар США</Name2>
+    <Name2>Р”РѕР»Р»Р°СЂ РЎРЁРђ</Name2>
     <Name3>63,9542</Name3>
   </ExpenseItem>
 <ExpenseItem>
     <Name1>EUR</Name1>
-    <Name2>Евро</Name2>
+    <Name2>Р•РІСЂРѕ</Name2>
     <Name3>71,1299</Name3>
   </ExpenseItem>
 <ExpenseItem>
     <Name1>INR</Name1>
-    <Name2>Индийских рупий</Name2>
+    <Name2>РРЅРґРёР№СЃРєРёС… СЂСѓРїРёР№</Name2>
     <Name3>89,9225</Name3>
   </ExpenseItem>
 <ExpenseItem>
     <Name1>KZT</Name1>
-    <Name2>Казахстанских тенге</Name2>
+    <Name2>РљР°Р·Р°С…СЃС‚Р°РЅСЃРєРёС… С‚РµРЅРіРµ</Name2>
     <Name3>89,9225</Name3>
   </ExpenseItem>
 <ExpenseItem>
     <Name1>CAD</Name1>
-    <Name2>Канадский доллар</Name2>
+    <Name2>РљР°РЅР°РґСЃРєРёР№ РґРѕР»Р»Р°СЂ</Name2>
     <Name3>48,6862</Name3>
   </ExpenseItem>
 <ExpenseItem>
     <Name1>KGS</Name1>
-    <Name2>Киргизских сомов</Name2>
+    <Name2>РљРёСЂРіРёР·СЃРєРёС… СЃРѕРјРѕРІ</Name2>
     <Name3>91,3775</Name3>
   </ExpenseItem>
 <ExpenseItem>
     <Name1>CNY</Name1>
-    <Name2>Китайских юаней</Name2>
+    <Name2>РљРёС‚Р°Р№СЃРєРёС… СЋР°РЅРµР№</Name2>
     <Name3>90,2938</Name3>
   </ExpenseItem>
 <ExpenseItem>
     <Name1>MDL</Name1>
-    <Name2>Молдавских леевl</Name2>
+    <Name2>РњРѕР»РґР°РІСЃРєРёС… Р»РµРµРІl</Name2>
     <Name3>36,8188</Name3>
   </ExpenseItem>
 <ExpenseItem>
     <Name1>TMT</Name1>
-    <Name2>Новый туркменский манат</Name2>
+    <Name2>РќРѕРІС‹Р№ С‚СѓСЂРєРјРµРЅСЃРєРёР№ РјР°РЅР°С‚</Name2>
     <Name3>18,2988</Name3>
   </ExpenseItem>
 <ExpenseItem>
     <Name1>NOK</Name1>
-    <Name2>Норвежских кронl</Name2>
+    <Name2>РќРѕСЂРІРµР¶СЃРєРёС… РєСЂРѕРЅl</Name2>
     <Name3>69,5555</Name3>
   </ExpenseItem>
 <ExpenseItem>
     <Name1>PLN</Name1>
-    <Name2>Польский злотый</Name2>
+    <Name2>РџРѕР»СЊСЃРєРёР№ Р·Р»РѕС‚С‹Р№</Name2>
     <Name3>16,6214</Name3>
   </ExpenseItem>
 <ExpenseItem>
     <Name1>RON</Name1>
-    <Name2>Румынский лей</Name2>
+    <Name2>Р СѓРјС‹РЅСЃРєРёР№ Р»РµР№</Name2>
     <Name3>14,968</Name3>
   </ExpenseItem>
 <ExpenseItem>
     <Name1>XDR</Name1>
-    <Name2>СДР (специальные права заимствования)</Name2>
+    <Name2>РЎР”Р  (СЃРїРµС†РёР°Р»СЊРЅС‹Рµ РїСЂР°РІР° Р·Р°РёРјСЃС‚РІРѕРІР°РЅРёСЏ)</Name2>
     <Name3>88,0087</Name3>
   </ExpenseItem>
 <ExpenseItem>
     <Name1>SGD</Name1>
-    <Name2>Сингапурский доллар</Name2>
+    <Name2>РЎРёРЅРіР°РїСѓСЂСЃРєРёР№ РґРѕР»Р»Р°СЂ</Name2>
     <Name3>46,8460</Name3>
   </ExpenseItem>
 <ExpenseItem>
     <Name1>TJS</Name1>
-    <Name2>Таджикских сомони</Name2>
+    <Name2>РўР°РґР¶РёРєСЃРєРёС… СЃРѕРјРѕРЅРё</Name2>
     <Name3>66,0002</Name3>
   </ExpenseItem>
 <ExpenseItem>
     <Name1>TRY</Name1>
-    <Name2>Турецкая лира</Name2>
+    <Name2>РўСѓСЂРµС†РєР°СЏ Р»РёСЂР°</Name2>
     <Name3>11,0588</Name3>
   </ExpenseItem>
 <ExpenseItem>
     <Name1>UZS</Name1>
-    <Name2>Узбекских сумов</Name2>
+    <Name2>РЈР·Р±РµРєСЃРєРёС… СЃСѓРјРѕРІ</Name2>
     <Name3>67,8199</Name3>
   </ExpenseItem>
 <ExpenseItem>
     <Name1>UAH</Name1>
-    <Name2>Украинских гривен</Name2>
+    <Name2>РЈРєСЂР°РёРЅСЃРєРёС… РіСЂРёРІРµРЅ</Name2>
     <Name3>25,5724</Name3>
   </ExpenseItem>
 <ExpenseItem>
     <Name1>GBP</Name1>
-    <Name2>Фунт стерлингов Соединенного королевства</Name2>
+    <Name2>Р¤СѓРЅС‚ СЃС‚РµСЂР»РёРЅРіРѕРІ РЎРѕРµРґРёРЅРµРЅРЅРѕРіРѕ РєРѕСЂРѕР»РµРІСЃС‚РІР°</Name2>
     <Name3>82,5073</Name3>
   </ExpenseItem>
 <ExpenseItem>
     <Name1>CZK</Name1>
-    <Name2>Чешских крон</Name2>
+    <Name2>Р§РµС€СЃРєРёС… РєСЂРѕРЅ</Name2>
     <Name3>27,7230</Name3>
   </ExpenseItem>
 <ExpenseItem>
     <Name1>SEK</Name1>
-    <Name2>Шведских крон</Name2>
+    <Name2>РЁРІРµРґСЃРєРёС… РєСЂРѕРЅ</Name2>
     <Name3>65,9852</Name3>
   </ExpenseItem>
 <ExpenseItem>
     <Name1>CHF</Name1>
-    <Name2>Швейцарский франк</Name2>
+    <Name2>РЁРІРµР№С†Р°СЂСЃРєРёР№ С„СЂР°РЅРє</Name2>
     <Name3>64,7966</Name3>
   </ExpenseItem>
 <ExpenseItem>
     <Name1>ZAR</Name1>
-    <Name2>Южноафриканских рэндов</Name2>
+    <Name2>Р®Р¶РЅРѕР°С„СЂРёРєР°РЅСЃРєРёС… СЂСЌРЅРґРѕРІ</Name2>
     <Name3>43,2591</Name3>
   </ExpenseItem>
 <ExpenseItem>
     <Name1>JPY</Name1>
-    <Name2>Японских иен</Name2>
+    <Name2>РЇРїРѕРЅСЃРєРёС… РёРµРЅ</Name2>
     <Name3>58,8626</Name3>
   </ExpenseItem>
 </Root>
